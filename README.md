@@ -6,31 +6,44 @@ This project presents an interactive **Power BI Dashboard** analyzing sales data
 **Key Insights**
 
   •	Revenue Analysis: Trends in total revenue over months, showcasing seasonality and high-performing periods.
+  
   •	Top Performers: Identification of the top 5 pizzas by revenue and quantities sold.
+  
   •	Sales Distribution:
-      o	By Day: Visual representation of sales across weekdays.
-      o	By Hour: Highlights peak sales hours.
+     
+  o	By Day: Visual representation of sales across weekdays.
+  o	By Hour: Highlights peak sales hours.
+  
   •	Category Performance:
-      o	Pizza categories (e.g., Classic, Supreme, Veggie, Chicken) by sales volume and revenue percentage.
-      o	Pizza size distribution for customer preferences.
+      
+  o	Pizza categories (e.g., Classic, Supreme, Veggie, Chicken) by sales volume and revenue percentage.
+  o	Pizza size distribution for customer preferences.
+  
   •	Aggregated Metrics:
-      o	Total revenue, average order value, total pizzas sold, and average pizzas per order.
+      
+  o	Total revenue, average order value, total pizzas sold, and average pizzas per order.
 
 
 **Data Enhancements**
 
   •	Added Day and Hour columns to the dataset to enhance time-based visualizations.
+  
   •	Cleaned the dataset to remove:
-      o	Null Values: Ensured accuracy in reporting.
-      o	Duplicate Records: Maintained data integrity.
+     
+  o	Null Values: Ensured accuracy in reporting.
+  o	Duplicate Records: Maintained data integrity.
 
 
 **Dashboard Overview**
 
   •	Revenue Over Months: Visualizes monthly revenue trends.
+  
   •	Top 5 Pizzas: Displays the best-selling pizzas by revenue and quantity.
+  
   •	Sold Quantities Over Days: Highlights sales activity across weekdays.
+  
   •	Top Hours for Sales: Shows hours with the highest sales volume.
+  
   •	Category and Size Distribution: Breakdown of sales by pizza type and size.
 
 
