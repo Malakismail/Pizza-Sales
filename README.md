@@ -4,6 +4,7 @@ This project presents an interactive **Power BI Dashboard** analyzing sales data
 
 ## Features
 **Key Insights**
+
   •	Revenue Analysis: Trends in total revenue over months, showcasing seasonality and high-performing periods.
   •	Top Performers: Identification of the top 5 pizzas by revenue and quantities sold.
   •	Sales Distribution:
@@ -17,6 +18,7 @@ This project presents an interactive **Power BI Dashboard** analyzing sales data
 
 
 **Data Enhancements**
+
   •	Added Day and Hour columns to the dataset to enhance time-based visualizations.
   •	Cleaned the dataset to remove:
       o	Null Values: Ensured accuracy in reporting.
@@ -24,6 +26,7 @@ This project presents an interactive **Power BI Dashboard** analyzing sales data
 
 
 **Dashboard Overview**
+
   •	Revenue Over Months: Visualizes monthly revenue trends.
   •	Top 5 Pizzas: Displays the best-selling pizzas by revenue and quantity.
   •	Sold Quantities Over Days: Highlights sales activity across weekdays.
